@@ -38,7 +38,7 @@ struct Index {
       // Web({ src: $rawfile("index.html"), controller: this.controller })
 
       /* Load online web pages */
-      Web({ src: 'https://xxx/xxx/com', controller: this.controller })
+      Web({ src: 'https://react-duolingo-clone.vercel.app/', controller: this.controller })
         .zoomAccess(false)
         .mediaPlayGestureAccess(true)
         .horizontalScrollBarAccess(false)
