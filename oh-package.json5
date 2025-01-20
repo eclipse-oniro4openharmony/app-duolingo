@@ -1,11 +1,13 @@
 {
-  "license": "ISC",
-  "devDependencies": {
-    "@ohos/hypium": "1.0.6"
-  },
-  "name": "webapp",
-  "description": "example description",
-  "repository": {},
+  "name": "app-duolingo",
   "version": "1.0.0",
-  "dependencies": {}
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@ohos/hypium": "1.0.13"
+  }
 }
