@@ -11,6 +11,18 @@
     {
       "name": "EntryAbility_label",
       "value": "WebApp"
+    },
+    {
+      "name": "permission_reason_medialocation",
+      "value": "reason"
+    },
+    {
+      "name": "permission_reason_writemedia",
+      "value": "reason"
+    },
+    {
+      "name": "permission_reason_readmedia",
+      "value": "reason"
     }
   ]
 }

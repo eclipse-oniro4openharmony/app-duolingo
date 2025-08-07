@@ -1,25 +1,13 @@
 {
   "app": {
     "signingConfigs": [
-      {
-        "name": "default",
-        "material": {
-          "certpath": "./.secret/oniro-ci.cer",
-          "storePassword": "0000001BD5A16C997F0EF958596A946A060A50ED61DF4D945A74AB3C462CBCFBE5BA90427A3DEAC0D27D3E",
-          "keyAlias": "debugKey",
-          "keyPassword": "0000001BACA49D623B16BE8A9C4C216A9ED64244F7255BC9AEF8C862264DDA900496AD36202857353771E8",
-          "profile": "./.secret/oniro-ci.p7b",
-          "signAlg": "SHA256withECDSA",
-          "storeFile": "./.secret/oniro-ci.p12"
-        }
-      }
     ],
     "products": [
       {
         "name": "default",
         "signingConfig": "default",
-        "compileSdkVersion": 11,
-        "compatibleSdkVersion": 11,
+        "compileSdkVersion": 18,
+        "compatibleSdkVersion": 18,
         "runtimeOS": "OpenHarmony",
       }
     ],
